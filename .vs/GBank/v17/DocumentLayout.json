@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gauta\\source\\repos\\GBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\DatabaseManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:DatabaseManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\GBank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:GBank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\REGISTRY.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:REGISTRY.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\BankFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:BankFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\SignInManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:SignInManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\SignInManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:SignInManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\Utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:Utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\Utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:Utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\DatabaseManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:DatabaseManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|C:\\Users\\gauta\\source\\repos\\GBank\\BankFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0B763C4-93E7-41B4-8ED8-9E889C347A6F}|GBank.vcxproj|solutionrelative:BankFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-08-29T06:00:23.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GBank.cpp",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\GBank.cpp",
+              "RelativeDocumentMoniker": "GBank.cpp",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\GBank.cpp",
+              "RelativeToolTip": "GBank.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T17:17:11.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utility.cpp",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\Utility.cpp",
+              "RelativeDocumentMoniker": "Utility.cpp",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\Utility.cpp",
+              "RelativeToolTip": "Utility.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T03:04:57.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseManager.cpp",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\DatabaseManager.cpp",
+              "RelativeDocumentMoniker": "DatabaseManager.cpp",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\DatabaseManager.cpp",
+              "RelativeToolTip": "DatabaseManager.cpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-26T18:32:59.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignInManager.cpp",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\SignInManager.cpp",
+              "RelativeDocumentMoniker": "SignInManager.cpp",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\SignInManager.cpp",
+              "RelativeToolTip": "SignInManager.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T04:23:18.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankFunctions.cpp",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\BankFunctions.cpp",
+              "RelativeDocumentMoniker": "BankFunctions.cpp",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\BankFunctions.cpp",
+              "RelativeToolTip": "BankFunctions.cpp",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAUwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T02:52:07.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cpp",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\User.cpp",
+              "RelativeDocumentMoniker": "User.cpp",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\User.cpp",
+              "RelativeToolTip": "User.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-27T04:19:07.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignInManager.h",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\SignInManager.h",
+              "RelativeDocumentMoniker": "SignInManager.h",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\SignInManager.h",
+              "RelativeToolTip": "SignInManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-29T04:22:54.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "REGISTRY.csv",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\REGISTRY.csv",
+              "RelativeDocumentMoniker": "REGISTRY.csv",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\REGISTRY.csv",
+              "RelativeToolTip": "REGISTRY.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-08-27T17:32:19.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Utility.h",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\Utility.h",
+              "RelativeDocumentMoniker": "Utility.h",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\Utility.h",
+              "RelativeToolTip": "Utility.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-29T03:03:09.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.h",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\User.h",
+              "RelativeDocumentMoniker": "User.h",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\User.h",
+              "RelativeToolTip": "User.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-27T04:17:55.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseManager.h",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\DatabaseManager.h",
+              "RelativeDocumentMoniker": "DatabaseManager.h",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\DatabaseManager.h",
+              "RelativeToolTip": "DatabaseManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-26T17:28:25.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BankFunctions.h",
+              "DocumentMoniker": "C:\\Users\\gauta\\source\\repos\\GBank\\BankFunctions.h",
+              "RelativeDocumentMoniker": "BankFunctions.h",
+              "ToolTip": "C:\\Users\\gauta\\source\\repos\\GBank\\BankFunctions.h",
+              "RelativeToolTip": "BankFunctions.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-29T02:51:52.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
